@@ -1,6 +1,6 @@
 ## Bonjour,
  mon nom est Axel
- cette page présente [mes projets](https://www.youtube.com/watch?v=1aXk2RViq3c)
+ cette page présente -> [mes projets](https://www.youtube.com/watch?v=1aXk2RViq3c)
 
     Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
     Scraped over 1000 job descriptions from glassdoor using python and selenium
