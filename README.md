@@ -11,4 +11,4 @@
     Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
     Built a client facing API using flask
 
-J'appel mon [fils](https://maximin974.github.io/Projets/images/)
+[fils](https://maximin974.github.io/Projets/images/)
