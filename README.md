@@ -5,7 +5,7 @@
     Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
     Scraped over 1000 job descriptions from glassdoor using python and selenium
     
-    ![Figure 1-1](images/DescentGradient.png "Figure 1-1")
+    ![Figure 1](images/DescentGradient.png?raw=true)
     
     ![Figure 1-1](https://github.com/maximin974/Projets/blob/main/images/DescentGradient.png "Figure 1-1")
     
